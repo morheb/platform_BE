@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8hWFnstQgHKaEyMDcQrD0urBZZwzxtDNTOsIHEqqhmc=",
+  "Source": "Platform_BE",
+  "BasePath": "_content/Platform_BE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
